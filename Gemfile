@@ -21,6 +21,8 @@ gem 'jbuilder', '~> 2.7'
 # přidal já
 gem 'jquery-rails'
 gem 'semantic-ui-sass'
+gem 'bcrypt'
+gem 'hirb'
 #gem 'compass'
 #gem 'compass-rails'
 # Use Redis adapter to run Action Cable in production
